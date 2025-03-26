@@ -1,0 +1,11 @@
+streamlit
+PyJWT
+bcrypt
+pandas
+sqlalchemy
+openpyxl
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
